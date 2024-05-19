@@ -27,7 +27,7 @@ body, html {
 
 .bottom-half p{
     margin-inline-start: 50px;
-    margin-inline-end: 1280px;
+    margin-inline-end: 550px;
     unicode-bidi: isolate;
 }
 <!--demo margin for bottom half para
